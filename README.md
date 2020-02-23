@@ -31,56 +31,7 @@ vim 'User/Package Control.sublime-settings'
   ]
 }
 ```
-Start Sublime-Text and search "Boxy Theme: Activation" in command palette.  
 Enjoy best of Sublime Text theme, unfortunately deleted without any warning by the author. (Never do that)
-
-***
-
-A set of easy customizable interface and syntax themes for **Sublime Text 3 3103+**. Comes in, both, light and dark variations. There are dozens of [**options**][settings] that enable you to personalize your experience with `Boxy Theme`, don't forget to check [them][settings] out.
-
-Want to contribute some code? Excellent! Read up on our [guidelines](https://github.com/karmicdude/sublime-boxy/blob/dev/.github/CONTRIBUTING.md).
-
-If you have some problems, first search for a similar issue, and then report with [new one][issues]. Please read the [**Known Issues**][known-issues] section before reporting a new one.
-
-Want to learn more? [**See the wiki &#8594;**][wiki].
-
-***
-
-<div>
-<a href="https://github.com/karmicdude/sublime-boxy#installation">Installation</a>&nbsp;
-▪&nbsp;<a href="https://github.com/karmicdude/sublime-boxy#activation">Activation</a>&nbsp;
-▪&nbsp;<a href="https://github.com/karmicdude/sublime-boxy#icons">Icons</a>&nbsp;
-▪&nbsp;<a href="https://github.com/karmicdude/sublime-boxy#skins">Skins</a>&nbsp;
-▪&nbsp;<a href="https://github.com/karmicdude/sublime-boxy/wiki/Settings">Settings</a>&nbsp;
-▪&nbsp;<a href="https://github.com/karmicdude/sublime-boxy/wiki#references">References</a>&nbsp;
-▪&nbsp;<a href="https://forum.sublimetext.com/t/boxy-the-most-hackable-theme-for-sublime-text-3/20564">Forum</a>&nbsp;
-▪&nbsp;<a href="https://packagecontrol.io/packages/Boxy%20Theme">Package Control</a>
-▪&nbsp;<a href="https://github.com/karmicdude/sublime-boxy#share-the-love">Share The Love</a>
-</div>
-
-***
-
-<!--
-### Getting Started
-
-[![Getting Started with Boxy Theme][img-getting-started]][getting-started]
-
-***
--->
-
-### Installation
-
-The easiest way to install is using [Package Control][pc], where [Boxy][theme] is listed as **`Boxy Theme`**.
-
-1. Open `Command Palette` using menu item `Tools → Command Palette...`
-2. Choose `Package Control: Install Package`
-3. Find `Boxy Theme` and hit `Enter`
-4. Restart Sublime Text
-    - **macOS**  : menu item `Sublime Text → Quit Sublime Text`
-    - **Windows**: menu item `File → Exit`
-    - **Linux**  : menu item `File → Exit`
-
-[**Read more &#8594;**][install]
 
 ***
 
@@ -416,16 +367,10 @@ I've put a lot of time and effort into making `Boxy Theme` awesome. If you love 
 [downloads]: https://packagecontrol.io/packages/Boxy%20Theme
 [getting-started]: https://youtu.be/d2FZCUDcNxo 'Watch "Getting Started with Boxy Theme" on YouTube'
 [issues]: https://github.com/karmicdude/sublime-boxy/issues
-[known-issues]: https://github.com/karmicdude/sublime-boxy/wiki#known-issues
-[install]: https://github.com/karmicdude/sublime-boxy/wiki/Get-It#installation
-[activation]: https://github.com/karmicdude/sublime-boxy/wiki/Get-It#activation
 [patreon]: https://www.patreon.com/ihodev "Donate with Patreon"
 [pc]: https://packagecontrol.io/
 [release]: https://github.com/karmicdude/sublime-boxy/releases
-[settings]: https://github.com/karmicdude/sublime-boxy/wiki/Settings
 [theme]: https://packagecontrol.io/packages/Boxy%20Theme
-[upgrading]: https://github.com/karmicdude/sublime-boxy/wiki/Upgrading
-[wiki]: https://github.com/karmicdude/sublime-boxy/wiki
 
 
 <!-- Images -->
