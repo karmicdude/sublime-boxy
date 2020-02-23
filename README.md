@@ -27,10 +27,13 @@ vim 'User/Package Control.sublime-settings'
     "SublimeLinter-flake8",
     "SublimeLinter-json",
     "SublimeLinter-shellcheck",
-    "Boxy Theme",                                                                                                                           ...                                                   
+    ...
+    "Boxy Theme",
+    ...
   ]
 }
-```
+```  
+
 Enjoy best of Sublime Text theme, unfortunately deleted without any warning by the author. (Never do that)
 
 ***
