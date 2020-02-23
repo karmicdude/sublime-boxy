@@ -1,12 +1,38 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ihodev/sublime-boxy-assets/master/assets/readme/3.2.0/name.gif" alt="BOXY"></p>
+### Installation
 
-<p align="center">
-  <a href="https://github.com/karmicdude/sublime-boxy/releases"><img src="https://img.shields.io/github/release/ihodev/sublime-boxy.svg?maxAge=3600&style=flat-square" alt="Release"></a>
-  <a href="https://packagecontrol.io/packages/Boxy%20Theme"><img src="https://img.shields.io/packagecontrol/dt/Boxy%20Theme.svg?maxAge=3600&style=flat-square" alt="Downloads"></a>
-  <a href="https://travis-ci.org/ihodev/sublime-boxy"><img src="https://img.shields.io/travis/ihodev/sublime-boxy.svg?maxAge=3600&style=flat-square" alt="Build Status"></a>
-  <a href="https://twitter.com/intent/tweet?hashtags=Boxy%2CTheme%2CColorScheme%2CSublimeText&amp;ref_src=twsrc%5Etfw&amp;text=The%20most%20hackable%20theme%20%E2%9D%A4%20Sublime%20Text%203&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2FBoxy%2520Theme&amp;via=ihodev" title="Share via Twitter" target="_blank"><img src="https://img.shields.io/badge/share-twitter-1DA1F2.svg?maxAge=2592000&style=flat-square" alt="Twitter"></a>
-  <a href="https://www.patreon.com/ihodev" title="Donate with Patreon"><img src="https://img.shields.io/badge/donate-patreon-orange.svg?maxAge=2592000&style=flat-square" alt="Make a donation at patreon.com"></a>
-</p>
+Close all sublime-text instances first. Then:
+
+```bash
+# Change dir to Sublime Text $packages
+cd ~/.config/sublime-text-3/Packages
+# Clone this repo as 'Boxy Theme' dir
+git clone https://github.com/karmicdude/sublime-boxy.git 'Boxy Theme'
+# Add 'Boxy Theme' package to 'installed_packages' section
+vim 'User/Package Control.sublime-settings'
+>>
+{ 
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "Jedi - Python autocompletion",
+    "MagicPython",
+    "Package Control",
+    "sublack",
+    "SublimeLinter",
+    "SublimeLinter-bandit",
+    "SublimeLinter-contrib-mypy",
+    "SublimeLinter-flake8",
+    "SublimeLinter-json",
+    "SublimeLinter-shellcheck",
+    "Boxy Theme",                                                                                                                           ...                                                   
+  ]
+}
+```
+Start Sublime-Text and search "Boxy Theme: Activation" in command palette.
+Enjoy best of Sublime Text theme, unfortunately deleted without any warning by the author. (Never do that)
 
 ***
 
