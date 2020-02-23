@@ -7,7 +7,7 @@ Close all sublime-text instances first. Then:
 cd ~/.config/sublime-text-3/Packages
 # Clone this repo as 'Boxy Theme' dir
 git clone https://github.com/karmicdude/sublime-boxy.git 'Boxy Theme'
-# Add 'Boxy Theme' package to 'installed_packages' section
+# Add 'Boxy Theme' package to 'installed_packages' section, for example:
 vim 'User/Package Control.sublime-settings'
 >>
 { 
