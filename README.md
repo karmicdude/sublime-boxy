@@ -31,7 +31,7 @@ vim 'User/Package Control.sublime-settings'
   ]
 }
 ```
-Start Sublime-Text and search "Boxy Theme: Activation" in command palette.
+Start Sublime-Text and search "Boxy Theme: Activation" in command palette.  
 Enjoy best of Sublime Text theme, unfortunately deleted without any warning by the author. (Never do that)
 
 ***
